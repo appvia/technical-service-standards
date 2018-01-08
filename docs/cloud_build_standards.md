@@ -15,7 +15,6 @@ The name of the AWS account needs to contain useful information, below is a list
 
 | Type | Description | Usage |
 | ---- | ------ | ------ |
-| Directorate | Directorate Cost number | 1234 |
 | Cost Code | Cost code number | 3456789 |
 | Portfolio | Portfolio abbreviation | x |
 | Project Name | Name of the project | Projectx |
