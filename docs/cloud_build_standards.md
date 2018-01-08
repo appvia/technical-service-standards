@@ -16,7 +16,7 @@ The name of the AWS account needs to contain useful information, below is a list
 | Type | Description | Usage |
 | ---- | ------ | ------ |
 | Cost Code | Cost code number | 3456789 |
-| Portfolio | Portfolio abbreviation | x |
+| Business Area | Business unit i.e. Marketing | x |
 | Project Name | Name of the project | Projectx |
 | Env Name | Name of environment for account | test, notprod, prod, ops |
 
